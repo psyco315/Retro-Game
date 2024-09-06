@@ -1,0 +1,17 @@
+#canvas1{
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+    background: url("Assets/retroGameBG.jpg");
+    background-position: center;
+}
+
+#enemy1{
+    display: none; /* This only allows it to be drawn by javascript */
+}
+
+#player{
+    display: none; /* This only allows it to be drawn by javascript */
+}
